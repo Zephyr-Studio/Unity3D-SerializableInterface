@@ -13,12 +13,5 @@
   "author": {
     "name": "TNRD",
     "url": "https://www.tnrd.net"
-  },
-  "samples": [
-    {
-      "displayName": "Source Generation",
-      "description": "Contains a dll that will allow you to use source generation",
-      "path": "Samples~/SourceGeneration"
-    }
-  ]
+  }
 }
